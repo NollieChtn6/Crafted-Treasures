@@ -4,7 +4,7 @@
 
 Crafted Treasures is an online (fictional) boutique offering a curated collection of artisanal products and creations, designed to add a touch of craftsmanship to their customers life. From handcrafted ceramics to eco-friendly textiles, each piece is lovingly made by skilled artisans to bring beauty and joy to your home.
 
-This project showcases a simple yet elegant interface for an online store, created using pure HTML and CSS.
+This project (my very first project ever!) showcases a simple yet elegant interface for an online store, created using pure HTML and CSS.
 
 ## Project Overview
 
