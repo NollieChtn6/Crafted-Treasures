@@ -6,6 +6,8 @@ Crafted Treasures is an online (fictional) boutique offering a curated collectio
 
 This project (my very first project ever!) showcases a simple yet elegant interface for an online store, created using pure HTML and CSS.
 
+![Crafted Treasures Home Page](result/Creafted_Treasures_final_result.png)
+
 ## Project Overview
 
 This project consists of HTML and CSS files that together create the front end of an e-commerce website. The website features a collection of handcrafted items, each presented in a card layout with an image, description, and pricing information. Users can easily browse through the items and add them to their cart with the click of a button.
